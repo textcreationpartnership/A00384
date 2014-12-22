@@ -36,11 +36,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The praise of folie. = Moriæ encomium a booke made in latine by that great clerke Erasmus Roterodame
+
+1. To the reader.
+
 #####Body#####
-The praise of folie. = Moriæ encomium a booke made in latine by that great clerke Erasmus Roterodame
+
+1. MORIAE ENCOMIVM.
+Folie speaketh.
+
 #####Back#####
-The praise of folie. = Moriæ encomium a booke made in latine by that great clerke Erasmus Roterodame
+IMPRINTED AT LONDON
+IN FLETESTRETE
+IN THE HOVSE OF THOMAS
+BERTHELET.Cum priuilegio ad imprimendum
+so
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
